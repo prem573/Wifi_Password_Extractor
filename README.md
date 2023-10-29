@@ -28,4 +28,4 @@ This tool makes use of the `subprocess` module to interact with the Windows comm
    cd Wifi_Password_Extractor
 3. Run :
   ```sh
-python main.py
+   python main.py
